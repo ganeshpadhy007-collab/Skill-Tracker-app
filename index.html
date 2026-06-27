@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BCA Skill Tracker</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-gray-100 p-6">
+  <div class="max-w-2xl mx-auto">
+    <h1 class="text-3xl font-bold mb-4">BCA Skill Tracker 🎯</h1>
+
+    <!-- Progress Cards -->
+    <div id="skills-container" class="space-y-4"></div>
+
+    <!-- Add Skill Button -->
+    <button onclick="addSkill()" class="mt-6 bg-blue-500 text-white px-4 py-2 rounded">
+      + Add New Skill
+    </button>
+
+    <div class="mt-6">
+      <h2 class="text-xl font-bold">Job Ready Score: <span id="total-score">0</span>%</h2>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
