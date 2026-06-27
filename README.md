@@ -3,7 +3,7 @@
 A web app for BCA students to track learning progress, maintain daily streaks, and calculate "Job Ready Score" for placements.
 
 ### 🚀 Live Demo
-🔗 [Click here to use](https://yourusername.github.io/bca-skill-tracker)
+🔗 https://ganeshpadhy007-collab.github.io/Skill-Tracker-app/
 
 
 ### ✨ Features
